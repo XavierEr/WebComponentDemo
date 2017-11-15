@@ -1,0 +1,19 @@
+{
+  "name": "webcomponentdemo",
+  "version": "1.0.0",
+  "description": "Create custom element guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierEr/WebComponentDemo.git"
+  },
+  "author": "Xavier Er",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierEr/WebComponentDemo/issues"
+  },
+  "homepage": "https://github.com/XavierEr/WebComponentDemo#readme"
+}
