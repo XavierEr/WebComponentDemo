@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/XavierEr/WebComponentDemo/issues"
   },
-  "homepage": "https://github.com/XavierEr/WebComponentDemo#readme"
+  "homepage": "https://github.com/XavierEr/WebComponentDemo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
